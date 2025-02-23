@@ -1,0 +1,13 @@
+# Maven
+target/
+
+# Playwright download
+playwright-java-*.zip
+
+# IDE files
+.idea/
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
